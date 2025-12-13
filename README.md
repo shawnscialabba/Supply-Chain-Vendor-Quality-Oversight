@@ -2,7 +2,7 @@
 
 ### Summary
 
-Developed and executed a revised vendor audit program to enhance compliance with NAVSEA and DOE governance requirements and meet NQA-1 supplier qualification standards. Directed nuclear fabrication Quality Assurance (QA) under NQA-1, ASME III/IX, and ISO 19443.
+Developed and executed a revised vendor audit program to enhance compliance with NAVSEA and DOE governance requirements and meet NQA-1 supplier qualification standards. Directed nuclear fabrication Quality Assurance (QA) under NQA-1, ASME III/IX, ISO 9001.
 
 ### Scope & Strategy
 
